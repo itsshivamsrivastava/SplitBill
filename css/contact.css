@@ -1,0 +1,44 @@
+.fa:hover {
+    opacity: 0.9;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+
+.fa-pinterest {
+    background: #cb2027;
+    color: white;
+}
+
+.fa-reddit {
+    background: #ff5700;
+    color: white;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 40px;
+    width: 60px;
+    text-decoration: none;
+    margin: 5px 80px;
+}
+
+.heading-h1 {
+    color: green;
+    width: 512px;
+}
+
+#contact-container{
+    background-color: #f7f7f7;
+    border-radius: 24px;
+    width: 32rem;
+    height: auto;
+    margin: auto;
+    margin-top: 7rem;
+    max-width: 600px;
+    background: #ffffff;
+    padding: 20px 25px 15px;
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.12);
+}
